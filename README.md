@@ -1,16 +1,11 @@
-# zoom_clone
+# 🤝 MeetWith - Screenshots & Preview
 
-A new Flutter project.
+Welcome to the **MeetWith** app!  
+Below are the screenshots highlighting the key features and interface of the app.
 
-## Getting Started
+📸 **App Screenshots**  
+Explore the user-friendly design and powerful features.
 
-This project is a starting point for a Flutter application.
+🔗 [Click here to view the MeetWith screenshots](https://drive.google.com/file/d/1HuMVta5w8zG60FLOmrhKCoqFbL5hlaQe/view?usp=sharing)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
